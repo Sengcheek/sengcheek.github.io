@@ -39839,8 +39839,8 @@ if(s<7)this.e=s+1},
 za:function(){var s=null,r=this.d
 if(r.length===7){new B.Dp(this.c,C.mT,"The End","Steven was the only Strong one",H.b([Y.a_S(L.hY("RESTART",A.fO(s,s,C.j,s,s,s,s,s,s,s,s,20,s,s,s,s,!0,s,s,s,s,s,s),s),new F.PA(this),120)],t.nR)).kp(0)
 C.b.sl(r,0)}},
-I:function(a){var s=this,r=null,q=L.hY("Who is the Strongest?",A.fO(r,r,C.j,r,r,r,r,r,r,r,r,30,r,C.c1,r,r,!0,r,r,r,r,r,r),r),p=$.mL()
-return T.Ep(H.b([new T.dE(r,20,r,r),new T.fj(1,C.bb,new T.cl(C.z,r,r,q,r),r),new T.fj(1,C.bb,new T.cg(new V.at(1,1,1,1),new T.cl(C.z,r,r,L.hY(p.b[p.a].a,A.fO(r,r,C.j,r,r,r,r,r,r,r,r,50,r,r,r,r,!0,r,r,r,r,r,r),C.bS),r),r),r),new T.fj(5,C.bb,new T.cg(new V.at(1,1,1,1),new T.cl(C.z,r,r,U.vu("assets/"+s.e+".jpg",r),r),r),r),new T.dE(r,20,T.Wt(s.d,C.cN,C.is,C.cd),r),new T.fj(1,C.bb,new T.cg(new V.at(10,10,10,10),N.Vv(L.hY("True",A.fO(r,r,C.j,r,r,r,r,r,r,r,r,20,r,r,r,r,!0,r,r,r,r,r,r),r),C.lo,new F.Px(s),C.j),r),r),new T.fj(1,C.bb,new T.cg(new V.at(10,10,10,10),N.Vv(L.hY("False",A.fO(r,r,C.j,r,r,r,r,r,r,r,r,20,r,r,r,r,!0,r,r,r,r,r,r),r),C.lp,new F.Py(s),r),r),r)],t.t),C.cO,C.oL,C.cd)}}
+I:function(a){var s=this,r=null,q=L.hY("Is this person strong?",A.fO(r,r,C.j,r,r,r,r,r,r,r,r,30,r,C.c1,r,r,!0,r,r,r,r,r,r),r),p=$.mL()
+return T.Ep(H.b([new T.dE(r,20,r,r),new T.fj(1,C.bb,new T.cl(C.z,r,r,q,r),r),new T.fj(1,C.bb,new T.cg(new V.at(1,1,1,1),new T.cl(C.z,r,r,L.hY(p.b[p.a].a,A.fO(r,r,C.j,r,r,r,r,r,r,r,r,50,r,r,r,r,!0,r,r,r,r,r,r),C.bS),r),r),r),new T.fj(5,C.bb,new T.cg(new V.at(1,1,1,1),new T.cl(C.z,r,r,U.vu("assets/"+s.e+".jpg",r),r),r),r),new T.dE(r,20,T.Wt(s.d,C.cN,C.is,C.cd),r),new T.fj(1,C.bb,new T.cg(new V.at(10,10,10,10),N.Vv(L.hY("Yes",A.fO(r,r,C.j,r,r,r,r,r,r,r,r,20,r,r,r,r,!0,r,r,r,r,r,r),r),C.lo,new F.Px(s),C.j),r),r),new T.fj(1,C.bb,new T.cg(new V.at(10,10,10,10),N.Vv(L.hY("No",A.fO(r,r,C.j,r,r,r,r,r,r,r,r,20,r,r,r,r,!0,r,r,r,r,r,r),r),C.lp,new F.Py(s),r),r),r)],t.t),C.cO,C.oL,C.cd)}}
 F.PA.prototype={
 $0:function(){var s=this.a,r=s.c.ib(t.jK)
 r.k0(null)
